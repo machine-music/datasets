@@ -20,3 +20,6 @@ cd ..
 cd ..
 python midi-reduced/midi_to_reduced.py -i datasets/<YOUR_DATASET>/midis -o data_reduced.txt
 ```
+
+- Mozart file created from [S. D. Rodrian's site](http://mozart.sdrodrian.com/sonatas/)
+ (zip at bottom)
